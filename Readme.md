@@ -11,7 +11,7 @@ In a second step with
 
 ``distance_embeddings.py``
 
-a semantic similarity anlysis is done, by several steps. This will produce the graphics in section results.
+a semantic similarity analysis is done, by several steps. This will produce the graphics in section results.
 
 
 
@@ -20,7 +20,7 @@ a semantic similarity anlysis is done, by several steps. This will produce the g
 ### Cosinus-Distanzmatrix
 
 The average of the embedding vector per party is calculated. Then the Cosine distance matrix 
-The smaller the value the smaller the value the smaller the semantic distance
+The smaller the value the smaller the value the smaller the semantic distance.
 
 |       |FPÖ        | Grüne    |NEOS     |SPÖ      |ÖVP    |
 |-------|-----------|----------|---------|---------|-------|    
