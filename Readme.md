@@ -20,7 +20,7 @@ a semantic similarity analysis is done, by several steps. This will produce the 
 ### Cosinus-Distanzmatrix
 
 The average of the embedding vector per party is calculated. Then the Cosine distance matrix. 
-The smaller the value the smaller the value the smaller the semantic distance.
+The smaller the value the smaller the semantic distance between these pairs.
 
 |       |FPÖ        | Grüne    |NEOS     |SPÖ      |ÖVP    |
 |-------|-----------|----------|---------|---------|-------|    
