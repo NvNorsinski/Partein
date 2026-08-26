@@ -1,4 +1,4 @@
-# Semantic Analysis with Embeddings of Austrian Political Party Programms (Grundsatzprogram)
+# Semantic Analysis with Embeddings of Austrian Political Party Programms (Grundsatzprogramm)
 
 This Script compares the semantic similarity of the party programs of all big Austrian political partys. 
 From the programms, stored in "Dokumente", an embedding is calculated and stored in Chroma DB. 
