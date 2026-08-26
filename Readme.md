@@ -34,7 +34,7 @@ The smaller the value the smaller the semantic distance between these pairs.
 
  Dimension reduction on the embedings is applied. This allows to express the similarity of the texts visually, by reducing the dimensionallity of the embeding vectors. The closer the observations the more similar are these observations.
  
-  Two methods are used for comparison. Multidimensional scaling (MDS) and PCA. It is necessary to keep in mind that a position of the observation points left/right or up/down does not indicate a political position in the left/right spectrum of the partys. MDS and PCA have in terms of position of the points a random element and are not aware of political categorys, the only factor that matters is the distance of the observations with respect to each other. To the semantic similiarity of the programms to each other can be visualised. Both methods produce, in terms of similiar position of the observations to each other a somewhat similiar output.
+  Two methods are used for comparison. Multidimensional scaling (MDS) and PCA. It is necessary to keep in mind that a position of the observation points left/right or up/down does not indicate a political position in the left/right spectrum of the partys. MDS and PCA have in terms of position of the points a random element and are not aware of political categorys, the only factor that matters is the distance of the observations with respect to each other. So the semantic similiarity of the programms to each other can be visualised. Both methods produce, in terms of similiar position of the observations to each other a somewhat similiar output.
 
 ![alt text](mds_output.png)
 
