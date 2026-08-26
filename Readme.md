@@ -1,7 +1,7 @@
 # Semantic Analysis with Embeddings of Austrian Political Party Programms (Grundsatzprogram)
 
-This Script compares the semantic similarity of the Party Programs of all big Austrian political partys. 
-From the programms, stored in Dokumente, an embedding is calculated and stored in Chroma DB. 
+This Script compares the semantic similarity of the party programs of all big Austrian political partys. 
+From the programms, stored in "Dokumente", an embedding is calculated and stored in Chroma DB. 
 
 This is done with
 
@@ -19,7 +19,7 @@ a semantic similarity analysis is done, by several steps. This will produce the 
 
 ### Cosinus-Distanzmatrix
 
-The average of the embedding vector per party is calculated. Then the Cosine distance matrix. 
+The average of the embedding vector per party is calculated. Then the cosine distance matrix. 
 The smaller the value the smaller the semantic distance between these pairs.
 
 |       |FPÖ        | Grüne    |NEOS     |SPÖ      |ÖVP    |
